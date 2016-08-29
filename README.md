@@ -1,7 +1,7 @@
 # NSS Exercise | CSS Pseudoclass
 
 ## Description
-For this exercise we were unable to add any classes or ids to the html elements.  We had to manipulate <li>, <span>, and <article> elements.
+For this exercise we were unable to add any classes or ids to the html elements.  We had to manipulate list, span, and article elements.
 
 ## How to Run
 1. Clone repo to your local computer
