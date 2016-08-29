@@ -14,7 +14,7 @@ For this exercise we were unable to add any classes or ids to the html elements.
 
 4. Then navigate to http://localhost:9999 in your browser to view the css in action.
 
-> TIP: you may want to view in Google Chrome and opent he dev toosl to see the CSS file.
+> TIP: You may want to view in Google Chrome and open the dev tools to view the CSS code.
 
 ## Contributors
 - [Debra Gordon](http://github.com/debragordon)
